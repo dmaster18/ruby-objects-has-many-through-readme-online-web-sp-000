@@ -18,6 +18,6 @@ class Customer
   end
   
   def waiters
-  
+    meals.
   end
 end
