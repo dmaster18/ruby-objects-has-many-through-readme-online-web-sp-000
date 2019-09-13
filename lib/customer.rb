@@ -19,5 +19,5 @@ class Customer
   
   def waiters
   
-end
+  end
 end
