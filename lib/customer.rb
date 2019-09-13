@@ -24,6 +24,6 @@ class Customer
   end
   
   def waiters
-    meals.
+    meals.map
   end
 end
