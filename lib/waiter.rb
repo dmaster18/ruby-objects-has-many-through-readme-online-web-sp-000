@@ -18,5 +18,6 @@ class Waiter
   end
   
   def meals
+    Meal.all.select 
   
 end
